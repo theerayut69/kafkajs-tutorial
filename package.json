@@ -1,0 +1,22 @@
+{
+  "name": "kafkajs-tutorial",
+  "version": "1.0.0",
+  "description": "kafkajs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theerayut69/kafkajs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theerayut69/kafkajs-tutorial/issues"
+  },
+  "homepage": "https://github.com/theerayut69/kafkajs-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
